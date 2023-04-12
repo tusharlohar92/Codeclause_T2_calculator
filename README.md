@@ -1,3 +1,3 @@
 # Codeclause_T2_calculator
-## Project Name = Calculator in Python 
+## Codeclause_Task-2
 
